@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="center">
 
