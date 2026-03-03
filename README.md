@@ -1,10 +1,16 @@
-# 🤓 **milamonti**
+<h1 align="center">
+  🤓 <strong>Lorenzo Milamonti</strong>
+</h1> 
 
-### 💻 Fullstack Dev
+<h3 align="center">
+  💻 Fullstack Dev
+</h3>
 
 ---
 
-## 🚀 Main Tools
+<h3 align="center">
+  🚀 Main Tools
+</h3>
 
 <div align="center"> 
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" height="36" /> 
@@ -15,8 +21,18 @@
 
 ---
 
-## 📫 Contact me
+<h3 align="center">
+  📫 Contact me
+</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_milamonti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milamontilorenzo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-milamonti-b39770330/)
+<div align="center">
+  <a href="https://instagram.com/_milamonti" target="_blank" rel="noopener"> 
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="36" /> 
+  </a> 
+  <a href="mailto:milamontilorenzo@gmail.com"> 
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="36" /> 
+  </a> 
+  <a href="https://www.linkedin.com/in/lorenzo-milamonti-b39770330/" target="_blank" rel="noopener"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="36" /> 
+  </a> 
+</div>
