@@ -6,6 +6,10 @@
   💻 Fullstack Dev
 </h3>
 
+<p align="center">
+  Desenvolvedor focado em arquitetura de APIs, integrações e aplicações escaláveis, com experiência na construção de back-ends performáticos e front-ends modernos. Atuo do desenho da arquitetura à entrega em produção, aplicando boas práticas de versionamento, containerização e organização de código, com foco em manutenibilidade, performance e clareza estrutural.
+</p>
+
 ---
 
 <h3 align="center">
@@ -28,9 +32,6 @@
 </h3>
 
 <div align="center">
-  <a href="https://instagram.com/_milamonti" target="_blank" rel="noopener"> 
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="36" /> 
-  </a> 
   <a href="mailto:milamontilorenzo@gmail.com"> 
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="36" /> 
   </a> 
