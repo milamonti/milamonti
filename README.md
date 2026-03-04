@@ -18,6 +18,7 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" height="36" /> 
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" height="36" /> 
   <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&amp;logo=fastify&amp;logoColor=white" height="36" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="36" />
 </div>
 
 ---
